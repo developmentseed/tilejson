@@ -7,8 +7,8 @@
   <a href="https://codecov.io/gh/developmentseed/tilejson" target="_blank">
       <img src="https://codecov.io/gh/developmentseed/tilejson/branch/main/graph/badge.svg" alt="Coverage">
   </a>
-  <a href="https://pypi.org/project/rio-viz" target="_blank">
-      <img src="https://img.shields.io/pypi/v/rio-viz?color=%2334D058&label=pypi%20package" alt="Package version">
+  <a href="https://pypi.org/project/tilejson" target="_blank">
+      <img src="https://img.shields.io/pypi/v/tilejson?color=%2334D058&label=pypi%20package" alt="Package version">
   </a>
   <a href="https://github.com/developmentseed/tilejson/blob/main/LICENSE" target="_blank">
       <img src="https://img.shields.io/github/license/developmentseed/tilejson.svg" alt="Downloads">
