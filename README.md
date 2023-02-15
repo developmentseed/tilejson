@@ -43,9 +43,18 @@ Usage: tilejson [OPTIONS] URL
   tilejson cli.
 
 Options:
-  --no-geo
-  --help    Show this message and exit.
+  --no-geo           Create Map viewer for non-geo image.
+  -o, --output PATH  Output file name.
+  --help             Show this message and exit.
 ```
+
+## How it works
+
+The `tilejson` CLI will create simple map viewer (using [MapLibre](https://maplibre.org/projects/)) with a reference to the input tilejson URL.
+
+By default the HTML code will be saved in a system temporary directory but user can pass an `--output` option to store the HTML file in a custom place.
+
+Once the HTML document is created, `click` will [*launch*](https://click.palletsprojects.com/en/8.1.x/api/#click.launch) the page, opening it with the user's default browser.
 
 ## Contribution & Development
 
