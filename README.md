@@ -1,6 +1,9 @@
 # tilejson
 
-![](https://user-images.githubusercontent.com/10407788/218823077-5c1567c9-79f0-4147-af92-0fe901986dff.gif)
+<p align="center">
+  <img max-width="800" src="https://user-images.githubusercontent.com/10407788/218823077-5c1567c9-79f0-4147-af92-0fe901986dff.gif"/>
+  <p align="center">Create simple map viewer from TileJSON URL.</p>
+</p>
 
 <p align="center">
   <a href="https://github.com/developmentseed/tilejson/actions?query=workflow%3ACI" target="_blank">
